@@ -4,13 +4,13 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_Spec_cer.png" alt="Spec Cer" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c1_cer.png" alt="Certificate 1" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c2_cer.png" alt="Certificate 2" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c1_cer.png" alt="Certificate 1" width="410"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c2_cer.png" alt="Certificate 2" width="410"></td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c3_cer.png" alt="Certificate 3" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c4_cer.png" alt="Certificate 4" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c5_cer.png" alt="Certificate 5" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c3_cer.png" alt="Certificate 3" width="410"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c4_cer.png" alt="Certificate 4" width="410"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c5_cer.png" alt="Certificate 5" width="410"></td>
   </tr>
 </table>
 
