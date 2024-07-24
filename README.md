@@ -1,5 +1,53 @@
 # Certifications
 
+## LLMs Specialization Certificates
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/LLM_c1_cer.png" alt="Certificate 1" width="400"></td>
+  </tr>
+</table>
+
+## GANs Specialization Certificates
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/GAN_C1_cer.png" alt="Certificate 1" width="400"></td>
+  </tr>
+</table>
+
+## Mathematics ML Specialization Certificates
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/MATH_C1_cer.png" alt="Certificate 1" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/MATH_c2_cer.png" alt="Certificate 2" width="400"></td>
+  </tr>
+</table>
+
+## Natural language processing Specialization Certificates
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/NLP_NLP_spec_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/NLP_c1_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/NLP_c2_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+  </tr>
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/NLP_c3_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/NLP_c4_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+  </tr>
+</table>
+
+## Advance TensorFlow Specialization Certificates
+<table style="border-collapse: collapse; border: none; width: 100%;">
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_Advanced_TF_CER.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c1_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c2_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+  </tr>
+  <tr>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c3_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c4_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+  </tr>
+</table>
+
 ## Deep Learning Specialization Certificates
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
@@ -40,40 +88,5 @@
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Tweet_Emotion_Recognition_cer.png" alt="Tweet Emotion Recognition" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Visualizing_Filters_of_a_CNN_Starter_cer.png" alt="Visualizing Filters of a CNN Starter" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_siamese_network_with_triplet_loss_cer.png" alt="Siamese Network with Triplet Loss" width="400"></td>
-  </tr>
-</table>
-
-## Mathematics ML Specialization Certificates
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/MATH_C1_cer.png" alt="Certificate 1" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/MATH_c2_cer.png" alt="Certificate 2" width="400"></td>
-  </tr>
-</table>
-
-## GANs Specialization Certificates
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/GAN_C1_cer.png" alt="Certificate 1" width="400"></td>
-  </tr>
-</table>
-
-## LLMs Specialization Certificates
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/LLM_c1_cer.png" alt="Certificate 1" width="400"></td>
-  </tr>
-</table>
-
-## Advance TensorFlow Specialization Certificates
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_Advanced_TF_CER.png" alt="Advanced TensorFlow Certificate" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c1_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c2_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
-  </tr>
-  <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c3_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c4_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
   </tr>
 </table>
