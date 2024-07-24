@@ -71,6 +71,8 @@
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_Advanced_TF_CER.png" alt="Advanced TensorFlow Certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c1_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c2_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
+  </tr>
+  <tr>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c3_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/TF_c4_cer.png" alt="Advanced TensorFlow Certificate" width="400"></td>
   </tr>
