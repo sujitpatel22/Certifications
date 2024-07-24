@@ -3,14 +3,14 @@
 ## Deep Learning Specialization Certificates
 <table>
   <tr>
-    <td><img src="https://github.com/sujitpatel22/Certifications/images/DL_Spec_cer.png" alt="Spec Cer" width="200"></td>
-    <td><img src="https://github.com/sujitpatel22/Certifications/images/DL_c1_cer.png" alt="Certificate 1" width="200"></td>
-    <td><img src="https://github.com/sujitpatel22/Certifications/images/DL_c2_cer.png" alt="Certificate 2" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_Spec_cer.png" alt="Spec Cer" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c1_cer.png" alt="Certificate 1" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c2_cer.png" alt="Certificate 2" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/sujitpatel22/Certifications/images/DL_c3_cer.png" alt="Certificate 3" width="200"></td>
-    <td><img src="https://github.com/sujitpatel22/Certifications/images/DL_c4_cer.png" alt="Certificate 4" width="200"></td>
-    <td><img src="https://github.com/sujitpatel22/Certifications/images/DL_c5_cer.png" alt="Certificate 5" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c3_cer.png" alt="Certificate 3" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c4_cer.png" alt="Certificate 4" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/DL_c5_cer.png" alt="Certificate 5" width="200"></td>
   </tr>
 </table>
 
