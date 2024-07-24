@@ -14,7 +14,6 @@
   </tr>
 </table>
 
-
 ## Coursera Projects Certificates
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
