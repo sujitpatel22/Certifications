@@ -1,7 +1,6 @@
 # Certifications
 
 ## Deep Learning Specialization Certificates
-
 <table>
   <tr>
     <td><img src="https://github.com/sujitpatel22/Certifications/images/DL_Spec_cer.png" alt="Spec Cer" width="200"></td>
