@@ -39,8 +39,6 @@
   <tr>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Tweet_Emotion_Recognition_cer.png" alt="Tweet Emotion Recognition" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Visualizing_Filters_of_a_CNN_Starter_cer.png" alt="Visualizing Filters of a CNN Starter" width="400"></td>
-  </tr>
-  <tr>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_siamese_network_with_triplet_loss_cer.png" alt="Siamese Network with Triplet Loss" width="400"></td>
   </tr>
 </table>
