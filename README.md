@@ -32,14 +32,13 @@
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Generate_Synthetic_Images_with_DCGANs_in_Keras_cer.png" alt="Generate Synthetic Images with DCGANs in Keras" width="400"></td>
   </tr>
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Malaria_parasite_detection_using_ensemble_learning_in_Keras.png" alt="Malaria parasite detection using ensemble learning in Keras" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Malaria_parasite_detection_using_ensemble_learning_Keras.png" alt="Malaria parasite detection using ensemble learning in Keras" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Superhero_Name_Generator_cer.png" alt="Superhero Name Generator" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Tuning_hp_with_Keras_tuner_cer.png" alt="Tuning hp with Keras tuner" width="400"></td>
   </tr>
   <tr>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Tweet_Emotion_Recognition_cer.png" alt="Tweet Emotion Recognition" width="400"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_Visualizing_Filters_of_a_CNN_Starter_cer.png" alt="Visualizing Filters of a CNN Starter" width="400"></td>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_explicitly_controllable_GAN.png" alt="Explicitly Controllable GAN" width="400"></td>
   </tr>
   <tr>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/c_siamese_network_with_triplet_loss_cer.png" alt="Siamese Network with Triplet Loss" width="400"></td>
