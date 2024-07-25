@@ -4,7 +4,7 @@
 ##### These are my first & favorite certifications :)
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
-    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/HarvardX_CS50x_cer.png" alt="Certificate 1" width="450"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/Harvard_HarvardX_CS50x_cer.png" alt="Certificate 1" width="450"></td>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/Harvard_CS50AI_cer.png" alt="Certificate 1" width="450"></td>
   </tr>
   <td>
