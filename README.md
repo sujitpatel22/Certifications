@@ -24,6 +24,7 @@
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
     <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/GAN_C1_cer.png" alt="Certificate 1" width="400"></td>
+    <td style="padding: 0; margin: 0;"><img src="https://raw.githubusercontent.com/sujitpatel22/Certifications/main/images/GAN_C2_cer.png" alt="Certificate 1" width="400"></td>
   </tr>
 </table>
 
